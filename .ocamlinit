@@ -1,0 +1,6 @@
+#utop_prompt_simple;;
+
+open Arith;;
+#install_printer Aexpr.pp;;
+#install_printer Bexpr.pp;;
+#install_printer Subst.pp;;
